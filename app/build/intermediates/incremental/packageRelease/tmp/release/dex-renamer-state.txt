@@ -1,0 +1,4 @@
+#Fri Oct 20 14:59:27 BRT 2023
+base.0=C\:\\Users\\emers\\OneDrive\\Área de Trabalho\\projetos\\pwa-test\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
